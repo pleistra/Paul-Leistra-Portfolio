@@ -12,5 +12,7 @@ I'm looking to secure an entry-level data analyst position for summer or fall of
 
 This is a relative link [test](docs/Resume-PaulLeistra.pdf).
 
+second [test](Resume-PaulLeistra.pdf)
+
 The private high school in Ontario is growing. This has given us the opportunity to add new courses to our program.
 This study will assist our school in deciding which courses to add.
