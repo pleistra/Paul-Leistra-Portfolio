@@ -52,7 +52,7 @@ I drilled down to the department level next. The relevance to the New Course Stu
 1. Significantly more enrolment than at my school, proportionally, or
 2. Significant growth that may indicate an important shift in education in Ontario.
 
-The visualization is available [here](https://public.tableau.com/views/OntarioSecondarySchoolEnrolment-Departments/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+The visualization is available [here](https://public.tableau.com/views/OntarioSecondarySchoolEnrolment-Departments/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 There data tells us several interesting things with respect to my school.
 1. There was a department that is under-represented at my school in terms of enrolment (this became evident through this visualization when compared to data collected from my school)
@@ -67,7 +67,7 @@ I drilled down even further to the course level next. This data was used in conj
 
 Most of the analysis of this section makes use of the survey data from my school, which I've not been given permission to share, so I will simply show the visualization of enrolment by course. Admittedly, the visualization is a little clunky since there are so many courses in Ontario, but it was used to hone in on a few key courses that arose from the community survey.
 
-The visualization is [here](https://public.tableau.com/views/EnrolmentbyCourse/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+The visualization is [here](https://public.tableau.com/views/EnrolmentbyCourse/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 #### Step 4
 Finally, I considered a list of the Ontario courses with the greatest enrolment that are not offered at my school. For example, HSP3U has had over 260,000 students registered in that course over the timeframe of the New Course Study. Any courses with more than that level of enrolment are already offered at my school.
