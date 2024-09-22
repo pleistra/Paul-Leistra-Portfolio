@@ -59,4 +59,24 @@ There data tells us several interesting things with respect to my school.
 2. There are two departments that have been experiencing growth in the last several years - Computers and First Nations, Metis and Inuit Studies.
 
 As an aside, there are two additional patterns that could be very much of interest to another study, but is beyond the scope of this study.
-1. Several 
+1. Several departments saw a dramatic drop in enrolment in the 2020-21 school year. Among these are Arts, Physical Education, and Technology. This coincides with the Covid pandemic, and it is noticeable that these are all more "hands-on" courses. The effect of this blip, if any, could be the topic of another study.
+2. The department of First Nations, Metis and Inuit Studies has seen very dramatic growth over the timeframe of this study. A valuable study would be to determine why this has happened, and to leverage that in other areas departments lag behind what policy makers and educators would like to see.
+
+#### Step 3
+I drilled down even further to the course level next. This data was used in conjunction with data from the survey of my school community. In the survey, there was a list of courses that our stakeholders (students, recent graduates, parents, teachers) would be interested in possibly adding to our program. Provincial enrolments in these courses helped inform the recommendations of the New Course Study.
+
+Most of the analysis of this section makes use of the survey data from my school, which I've not been given permission to share, so I will simply show the visualization of enrolment by course. Admittedly, the visualization is a little clunky since there are so many courses in Ontario, but it was used to hone in on a few key courses that arose from the community survey.
+
+The visualization is [here](https://public.tableau.com/views/EnrolmentbyCourse/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+#### Step 4
+Finally, I considered a list of the Ontario courses with the greatest enrolment that are not offered at my school. For example, HSP3U has had over 260,000 students registered in that course over the timeframe of the New Course Study. Any courses with more than that level of enrolment are already offered at my school.
+
+The visualization is [here](https://public.tableau.com/views/HistoricEnrolmentOntario/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
+### Recommendations
+Recommendations for the addition of two new courses was made to the Board of Directors. Both courses featured heavily in the school community survey, and are either currently under-represented at my school or have seen rapid growth in the province over the last several years.
+
+Recommendations included things like: how the course supports our school's mission and vision; budget implications; staffing implications; and physical space implications.
+
+### 
