@@ -13,7 +13,7 @@ I'm looking to secure an entry-level data analyst position for summer or fall of
 
 Here's my [resume](Resume-PaulLeistra.pdf).
 
-## Enrolment Study
+## New Course Study
 The private high school I teach at is growing. So much so that we have the opportunity to add new courses to our program.
 In addition to my role as math teacher, I am also a vice-principal at my school. The Board of Directors tasked me with spearheading the data-driven decision making process to determine which new course(s) we should consider offering.
 I'm pleased to be able to have this real-life study as part of my portfolio.
@@ -25,10 +25,13 @@ Our school is growing and we need to add one to three new senior courses startin
 The Enrolment Study makes use of three datasets.
 1. Enrolment data for all courses in publicly-funded Ontario Schools. The data came from Ontario's Open Source Data Catalogue.
 2. Enrolment data for all grades in publicly-funded Ontario Schools. The data came from Ontario's Open Source Data Catalogue.
-3. Survey results from my school community. I have not received permission from my school to share this data publicly, so I will not address this part of the Enrolment Study in my portfolio.
+3. Enrolment data for courses at my school. I have not received permission from my school to share this data publicly, so I will only state some general conclusions that arose from this data.
+4. Survey results from my school community. I have not received permission from my school to share this data publicly, so I will only state some general conclusions that arose from this data.
 
 ### Data Cleaning and Preprocessing
-The data collected from the Ontario Open Source Data Catalogue was organized as separate files for each school year. BigQuery was used to clean the data:
+The data collected from the Ontario Open Source Data Catalogue was organized as separate files for each school year. The most recent data available is from the 2022-23 school year. 
+
+BigQuery was used to clean the data:
 1. Each Ontario course has a unique Course Code. INNER JOIN was used to get the data table that includes course codes and enrolment data for each year from 2015-16 to 2021-22.
 2. Courses with an enrolment of fewer than 10 students were recorded as "<10". Each of these entries were
 3. Only data from senior classes was of interest for our school. A DISTINCT query on the “grade” column was used to determine if there were any unusual values in the grade column. There were not, so a WHERE query was used to retain only senior-level classes.
@@ -39,7 +42,21 @@ The data collected from the Ontario Open Source Data Catalogue was organized as 
 
 #### Step 1
 The enrolment of Ontario schools was graphed to check if any surprising trends have happened in the total enrolment in the province of Ontario.
-The graph is available [here](https://public.tableau.com/views/OntarioSecondarySchoolEnrolment/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
+The visualization is available [here](https://public.tableau.com/views/OntarioSecondarySchoolEnrolment/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
-This is a [test](https://public.tableau.com/app/profile/paul.leistra/viz/HistoricEnrolmentOntario/Dashboard1)
+The graph shows that enrolment in Ontario schools in Grades 11 and 12 has been relatively constant over the last eight years. Because of this, I chose to use actual enrolment numbers throughout the study rather than some value prorated on the number of students in the province in that year (ie: I did not use per capita data).
+
+#### Step 2
+I drilled down to the department level next. The relevance to the New Course Study is to determine if there are any departments that are seeing either:
+1. Significantly more enrolment than at my school, proportionally, or
+2. Significant growth that may indicate an important shift in education in Ontario.
+
+The visualization is available [here](https://public.tableau.com/views/OntarioSecondarySchoolEnrolment-Departments/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+There data tells us several interesting things with respect to my school.
+1. There was a department that is under-represented at my school in terms of enrolment (this became evident through this visualization when compared to data collected from my school)
+2. There are two departments that have been experiencing growth in the last several years - Computers and First Nations, Metis and Inuit Studies.
+
+As an aside, there are two additional patterns that could be very much of interest to another study, but is beyond the scope of this study.
+1. Several 
