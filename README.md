@@ -79,4 +79,5 @@ Recommendations for the addition of two new courses was made to the Board of Dir
 
 Recommendations included things like: how the course supports our school's mission and vision; budget implications; staffing implications; and physical space implications.
 
-### 
+### Conclusions
+If all goes as planned, the final decision will be received from our Board of Directors in December 2024 for implementation in September 2025.
