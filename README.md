@@ -56,16 +56,11 @@ This aligned with results from our community survey, specifically about which de
 [here](https://public.tableau.com/views/EnrolmentbyCourse/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 
 #### Step 3
-I drilled down even further to the course level next. This data was used in conjunction with data from the survey of my school community. In the survey, there was a list of courses that our stakeholders (students, recent graduates, parents, teachers) would be interested in possibly adding to our program. Provincial enrolments in these courses helped inform the recommendations of the New Course Study.
+I drilled down even further to the course level next. 
 
-Most of the analysis of this section makes use of the survey data from my school, which I've not been given permission to share, so I will simply show the visualization of enrolment by course. Admittedly, the visualization is a little clunky since there are so many courses in Ontario, but it was used to hone in on a few key courses that arose from the community survey.
+In this step, I considered which courses are popular in the province but are not offered at my school. The dashboard is [here](https://public.tableau.com/authoring/HistoricEnrolmentOntario/Dashboard1#1).
 
-The visualization is [here](https://public.tableau.com/views/EnrolmentbyCourse/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-
-#### Step 4
-Finally, I considered a list of the Ontario courses with the greatest enrolment that are not offered at my school. For example, HSP3U has had over 260,000 students registered in that course over the timeframe of the New Course Study. Any courses with more than that level of enrolment are already offered at my school.
-
-The visualization is [here](https://public.tableau.com/views/HistoricEnrolmentOntario/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+This helped to inform the community survey. Our community was asked to rate their interest in a list of particular courses the school is considering adding. The dashboard showing the most desired courses is [here](https://public.tableau.com/app/profile/paul.leistra/viz/SurveyData-Courses/LevelofInterestbyCourse).
 
 ### Recommendations
 Recommendations for the addition of two new courses was made to the Board of Directors. Both courses featured heavily in the school community survey, and are either currently under-represented at my school or have seen rapid growth in the province over the last several years.
