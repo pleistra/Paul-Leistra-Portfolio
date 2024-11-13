@@ -41,27 +41,16 @@ BigQuery was used to clean the data:
 ### Analysis/Modeling
 
 #### Step 1
-The enrolment of Ontario schools was graphed to check if any surprising trends have happened in the total enrolment in the province of Ontario.
-
-The visualization is available [here](https://public.tableau.com/views/OntarioSecondarySchoolEnrolment/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-
-The graph shows that enrolment in Ontario schools in Grades 11 and 12 has been relatively constant over the last eight years. Because of this, I chose to use actual enrolment numbers throughout the study rather than some value prorated on the number of students in the province in that year (ie: I did not use per capita data).
+The enrolment of Ontario schools was graphed to check if any surprising trends have happened in the total enrolment in the province of Ontario. It turns out that enrolment in Ontario schools in Grades 11 and 12 has been relatively constant over the last eight years. Because of this, I chose to use actual enrolment numbers throughout the study rather than some value prorated on the number of students in the province in that year.
 
 #### Step 2
 I drilled down to the department level next. The relevance to the New Course Study is to determine if there are any departments that are seeing either:
 1. Significantly more enrolment than at my school, proportionally, or
 2. Significant growth that may indicate an important shift in education in Ontario.
 
-The visualization is available [here](https://public.tableau.com/views/OntarioSecondarySchoolEnrolment-Departments/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+The data told us that the Business department is under-represented at my school in terms of enrolment.
 
-There data tells us several interesting things with respect to my school.
-1. There was a department that is under-represented at my school in terms of enrolment (this became evident through this visualization when compared to data collected from my school)
-2. There are two departments that have been experiencing growth in the last several years - Computers and First Nations, Metis and Inuit Studies.
-
-As an aside, there are two additional patterns that could be very much of interest to another study, but is beyond the scope of this study.
-1. Several departments saw a dramatic drop in enrolment in the 2020-21 school year. Among these are Arts, Physical Education, and Technology. This coincides with the Covid pandemic, and it is noticeable that these are all more "hands-on" courses. The effect of this blip, if any, could be the topic of another study.
-2. The department of First Nations, Metis and Inuit Studies has seen very dramatic growth over the timeframe of this study. A valuable study would be to determine why this has happened, and to leverage that in other areas departments lag behind what policy makers and educators would like to see.
-
+This aligned with results from our community survey, specifically about which departments our community was interested in seeing more offerings in. The dashboard is [here]([here](https://public.tableau.com/views/EnrolmentbyCourse/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).).
 #### Step 3
 I drilled down even further to the course level next. This data was used in conjunction with data from the survey of my school community. In the survey, there was a list of courses that our stakeholders (students, recent graduates, parents, teachers) would be interested in possibly adding to our program. Provincial enrolments in these courses helped inform the recommendations of the New Course Study.
 
