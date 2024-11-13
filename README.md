@@ -52,9 +52,6 @@ The data told us that the Business department is under-represented at my school 
 
 This aligned with results from our community survey, specifically about which departments our community was interested in seeing more offerings in. The dashboard is [here](https://public.tableau.com/app/profile/paul.leistra/viz/SurveyData-Departments/DeptDashboard3).
 
-
-[here](https://public.tableau.com/views/EnrolmentbyCourse/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
-
 #### Step 3
 I drilled down even further to the course level next. 
 
@@ -63,9 +60,7 @@ In this step, I considered which courses are popular in the province but are not
 This helped to inform the community survey. Our community was asked to rate their interest in a list of particular courses the school is considering adding. The dashboard showing the most desired courses is [here](https://public.tableau.com/app/profile/paul.leistra/viz/SurveyData-Courses/LevelofInterestbyCourse).
 
 ### Recommendations
-Recommendations for the addition of two new courses was made to the Board of Directors. Both courses featured heavily in the school community survey, and are either currently under-represented at my school or have seen rapid growth in the province over the last several years.
-
-Recommendations included things like: how the course supports our school's mission and vision; budget implications; staffing implications; and physical space implications.
+A recommendation for the addition of a Fitness course was approved by the Board of Directors. This course featured heavily in the school community survey, is currently under-represented at my school (compared to the provincial enrolment numbers), and is a course that we have the facilities and staffing to be able to implement quickly.
 
 ### Conclusions
-If all goes as planned, the final decision will be received from our Board of Directors in December 2024 for implementation in September 2025.
+The study was very much appreciated by our supporting community. Many respondants expressed appreciation for being involved in the decision making process. The Board also appreciated the process, so much so that a decision has been made to hold a bi-annual community survey.
