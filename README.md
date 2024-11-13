@@ -50,7 +50,8 @@ I drilled down to the department level next. The relevance to the New Course Stu
 
 The data told us that the Business department is under-represented at my school in terms of enrolment.
 
-This aligned with results from our community survey, specifically about which departments our community was interested in seeing more offerings in. The dashboard is [here]([here](https://public.tableau.com/views/EnrolmentbyCourse/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).).
+This aligned with results from our community survey, specifically about which departments our community was interested in seeing more offerings in. The dashboard is [here](https://public.tableau.com/views/EnrolmentbyCourse/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
 #### Step 3
 I drilled down even further to the course level next. This data was used in conjunction with data from the survey of my school community. In the survey, there was a list of courses that our stakeholders (students, recent graduates, parents, teachers) would be interested in possibly adding to our program. Provincial enrolments in these courses helped inform the recommendations of the New Course Study.
 
