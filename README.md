@@ -7,9 +7,9 @@ I'm a detail-oriented mathematician who has taught high school math for the past
 
 Teaching and data analytics have a lot of the same core skills. I know how to explain technical ideas to a non-technical audience and how to keep my audience engaged. I can read an audience and adapt on the fly, as necessary. I communicate clearly and collobarate effectively.
 
-In terms of some hard skills, I'm taking courses in data analytics and data science (Google's Data Analytics certificate as well as a Data Science Certificate from the University of Waterloo). Through these courses and through some natural curiosity, I'm picking up skills in SQL, Python, R, Pandas, NumPy, Tableau, etc. I have a strong mathematical mind (I ranked in the top 200 of all math students in North America in the Putnam math contest in my undergraduate career).
+In terms of some hard skills, I've taking courses in data analytics and data science (Google's Data Analytics certificate as well as a Data Science Certificate from the University of Waterloo). Through these courses and through some natural curiosity, I'm picking up skills in SQL, Python, R, Pandas, NumPy, Tableau, etc.
 
-I'm looking to secure an entry-level data analyst position for summer or fall of 2025. I know I have a lot to learn, and am looking to join a team where I can be mentored but also be expected to produce results.
+I'm looking to secure a data analyst position for summer or fall of 2025. I'm looking to join a team where I can be mentored, but also be expected to produce results.
 
 Here's my [resume](Resume-PaulLeistra.pdf).
 
@@ -33,7 +33,7 @@ The data collected from the Ontario Open Source Data Catalogue was organized as 
 
 BigQuery was used to clean the data:
 1. Each Ontario course has a unique Course Code. INNER JOIN was used to get the data table that includes course codes and enrolment data for each year from 2015-16 to 2021-22.
-2. Courses with an enrolment of fewer than 10 students were recorded as "<10". Each of these entries were
+2. Courses with an enrolment of fewer than 10 students were recorded as "<10". Each of these entries were assigned a value of 10.
 3. Only data from senior classes was of interest for our school. A DISTINCT query on the “grade” column was used to determine if there were any unusual values in the grade column. There were not, so a WHERE query was used to retain only senior-level classes.
 4. The table was a wide table; I changed it to a long table.
 5. The first letter of each course code indicates the department of that course (eg: ADA1O is a course in the Arts department). A "department" column was engineered using CASE statements along with SUBSTR (course_code,1,1).
